@@ -6,7 +6,7 @@
 * 輸入 hello , 會回應 Hello!!!
 * 輸入 help , 會回應操作提示
 ## FSM
-[picture](https://github.com/ArielWu0203/chatbot/blob/master/fsm.png)
+![picture](https://github.com/ArielWu0203/chatbot/blob/master/fsm.png)
 
 ## Interact with the chatbot
 1. input : `help`</br>
