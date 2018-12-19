@@ -8,6 +8,11 @@
 ## FSM
 ![picture](https://github.com/ArielWu0203/chatbot/blob/master/fsm.png)
 
+##Execution
+```
+$ python3 app.cpp
+```
+
 ## Interact with the chatbot
 1. input : `help`</br>
     output : `Input name or search or hello or help`
