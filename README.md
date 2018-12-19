@@ -10,7 +10,7 @@
 
 ##Execution
 ```
-$ python3 app.cpp
+$ python3 app.py
 ```
 
 ## Interact with the chatbot
